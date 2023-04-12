@@ -1,6 +1,8 @@
 Assessing Ballot Structure and Split Ticket Voting:</br >Evidence from a Quasi-Experiment
 ==============================================
 <i>The Journal of Politics</i>, 2017, 79 (2): 439-456.</br >
+DOI: 10.1086/688677
+
 Replication Data
 
 Tiffany D. <b>Barnes</b></br >
